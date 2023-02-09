@@ -1,8 +1,8 @@
 package com.fundamentosplatzi.springboot.fundamentos.bean;
 
-public class MyBeanImplement implements MyBean{
+public class MyBean2Implement implements MyBean{
     @Override
     public void print() {
-        System.out.println("Hola desde mi implementación MyBeanImplement");
+        System.out.println("Hola desde mi implementación 2 MyBeanImplement propia del bean 2");
     }
 }
